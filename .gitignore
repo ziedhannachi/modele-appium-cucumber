@@ -1,0 +1,6 @@
+/target/
+*.exe
+/TestSuite/
+/test-output/
+*.settings
+*.classpath
